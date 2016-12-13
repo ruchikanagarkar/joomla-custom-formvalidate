@@ -3,6 +3,6 @@ This is a solution to use when joomla form validation does not show any error me
 
 Example contains an index.php file which shows a simple form validation and also shows how we can upload only csv/msexcel files.
 
-Issue: An empty message container appears without any error message
+> Issue: An empty message container appears without any error message
 
-Output: A message container appears with the message 'Error: Please verify that you have uploaded a csv/excel file!'
+> Output: A message container appears with the message 'Error: Please verify that you have uploaded a csv/excel file!'
